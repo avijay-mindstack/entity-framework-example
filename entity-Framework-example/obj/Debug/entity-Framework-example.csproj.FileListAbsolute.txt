@@ -1,0 +1,13 @@
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\entity-Framework-example.exe.config
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\entity-Framework-example.exe
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\entity-Framework-example.pdb
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\EntityFramework.dll
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\EntityFramework.SqlServer.dll
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\EntityFramework.xml
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\bin\Debug\EntityFramework.SqlServer.xml
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\obj\Debug\entity-Framework-example.csproj.AssemblyReference.cache
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\obj\Debug\entity-Framework-example.csproj.SuggestedBindingRedirects.cache
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\obj\Debug\entity-Framework-example.csproj.CoreCompileInputs.cache
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\obj\Debug\entity-Framework-example.csproj.CopyComplete
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\obj\Debug\entity-Framework-example.exe
+D:\AA\assignment\entity-Framework-example\entity-Framework-example\obj\Debug\entity-Framework-example.pdb
